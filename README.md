@@ -1,4 +1,4 @@
-### Hi there 👋
+### Moin 👋
 
 <!--
 **e7a-0-e7a/e7a-0-e7a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Rhavens GitHub stats](https://github-readme-stats.vercel.app/api?username=e7a-0-e7a&theme=onedark&show_icons=true)
+![Rhavens GitHub stats](https://github-readme-stats.vercel.app/api?username=e7a-0-e7a&theme=onedark&show_icons=true&hide=issues&include_all_commits=true&count_private=true)
+
+<!--
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=e7a-0-e7a&langs_count=6&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+***
+
+<img src="https://komarev.com/ghpvc/?username=e7a-0-e7a&style=flat-square&color=red" alt=""/>
+
+
+
