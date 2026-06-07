@@ -107,10 +107,3 @@ A structured Discord community platform.
 
 ---
 
-## 🌐 Open Source
-
-I believe in creating software that users can host, control, customize, and extend themselves.
-
-From licensing systems to community platforms and worldbuilding tools, my goal is to build software that empowers creators and communities.
-
----
